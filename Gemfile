@@ -27,6 +27,8 @@ gem 'will_paginate-bootstrap4'
 
 gem 'rexml', require: false
 
+gem 'rails-controller-testing'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
