@@ -25,6 +25,8 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '3.2.1'
 gem 'will_paginate-bootstrap4'
 
+gem 'rexml', require: false
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
